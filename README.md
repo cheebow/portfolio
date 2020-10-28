@@ -4,7 +4,7 @@
 1969年生まれ、埼玉県出身。  
 [エムロジック株式会社](https://m-logic.co.jp/)　取締役。  
 Windows、Palmのアプリケーション開発を手がけるエムロジック株式会社を友人と創業。  
-ハンドル名「CHEEBOW」として、Palm／Windows用のフリーウェアやMovableTypeのTIPSを発表して活躍。  
+ハンドル名「CHEEBOW」として、Palm／Windows用のフリーウェアやMovableTypeのTIPS、プラグインを発表して活躍。  
 週末は音楽家としても活動しライブアイドルへの楽曲提供多数([音楽家としてのプロフィールはこちら](https://cheebow.mystrikingly.com/))。  
 
 ## 専門分野
@@ -44,7 +44,12 @@ VBでのパッケージアプリケーション開発、WEB関係など。
 - 国内メーカー様向けAndroid用写真閲覧アプリケーション
 - iPhone用料理写真共有アプリケーション「ミイル」
 - iPad用レストラン予約アプリケーション「トレタ」
-- iPhone用音楽コラボアプリ「nana」
+- iPhone用教師限定SNSアプリケーション「SENSEINOTE」
+- iPhone用料理ブログ閲覧アプリケーション「レシピブログ」
+- iPad用レストラン予約アプリケーション「トレタ」
+- iPhone用音楽コラボアプリケーション「nana」
+- iOS用イラストコミュニケーションサービスアプリケーション「pixiv」
+
 
 ## 受賞歴
 
