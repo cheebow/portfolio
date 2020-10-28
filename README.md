@@ -34,7 +34,7 @@ VBでのパッケージアプリケーション開発、WEB関係など。
 
 - テレビ番組予約アプリケーション　ソニー「TVscape」
 - 自社開発 PalmOS向けWeb巡回アプリケーション「PiloWebPro」
-- 自社開発 PalmOS用アプリケーション「CutePack」「ScrShot」
+- 自社開発 PalmOS用アプリケーション「CutePack」「コトバトコ」
 - Movable Type 日本語版開発協力
 - Movable Type プラグイン開発
 - 日立システムアンドサービス 「シックス・アパート公認Movable Typeトレーニング」セミナー講師
@@ -50,6 +50,12 @@ VBでのパッケージアプリケーション開発、WEB関係など。
 - iPhone用音楽コラボアプリケーション「nana」
 - iOS用イラストコミュニケーションサービスアプリケーション「pixiv」
 
+### 個人開発
+
+- Windows用アウトラインプロセッサ「StoryEditor」
+- Windows用 TWitterクライアント「Twit」
+- iOS用テンポ測定アプリケーション「BPM」
+- iOS用楽曲検索アプリケーション「Share-Music」
 
 ## 受賞歴
 
