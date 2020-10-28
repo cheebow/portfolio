@@ -87,7 +87,7 @@ Windows用Twitterクライアント「Twit」
 - [Facebookページ　プロフェッショナルガイド](https://www.amazon.co.jp/gp/product/4839938601)　毎日コミュニケーションズ　2011年7月
 
 ## 連絡先など
-mail:cheebow@gmail.com  
-twitter:https://twitter.com/cheebow  
-facebook:https://www.facebook.com/sekine.motokazu  
-github:https://github.com/cheebow
+mail: cheebow@gmail.com  
+twitter: https://twitter.com/cheebow  
+facebook: https://www.facebook.com/sekine.motokazu  
+github: https://github.com/cheebow
