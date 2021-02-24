@@ -52,9 +52,10 @@ VBでのパッケージアプリケーション開発、WEB関係など。
 ### 個人開発
 
 - Windows用アウトラインプロセッサ「StoryEditor」
+- PalmOS向けWeb巡回アプリケーション「PiloWeb」
 - Windows用 TWitterクライアント「Twit」
 - iOS用テンポ測定アプリケーション「BPM」
-- iOS用楽曲検索アプリケーション「Share-Music」
+- iOS用楽曲SNSシェアアプリケーション「Share-Music」
 
 ## 受賞歴
 
