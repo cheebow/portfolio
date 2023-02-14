@@ -48,6 +48,9 @@ VBでのパッケージアプリケーション開発、WEB関係など。
 - iPhone用料理ブログ閲覧アプリケーション「レシピブログ」
 - iPhone用音楽コラボアプリケーション「nana」
 - iOS用イラストコミュニケーションサービスアプリケーション「pixiv」
+- iPhone用BGM再生アプリケーション「Baby Relax」
+- iPhoe用ファンクラブアプリケーション(動画再生、コミュニケーション機能)
+- iPhone用コミュニティアプリケーション「いつでもおかえり」
 
 ### 個人開発
 
@@ -55,7 +58,8 @@ VBでのパッケージアプリケーション開発、WEB関係など。
 - PalmOS向けWeb巡回アプリケーション「PiloWeb」
 - Windows用 TWitterクライアント「Twit」
 - iOS用テンポ測定アプリケーション「BPM」
-- iOS用楽曲SNSシェアアプリケーション「Share-Music」
+- iPhone用楽曲SNSシェアアプリケーション「Share-Music」
+- iPhone用音楽検索アプリケーション「WhATSONg?」
 
 ## 受賞歴
 
